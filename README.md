@@ -15,7 +15,7 @@
     
    ___Depois de instalar tudo, vamos clonar e rodar nosso projeto:___
    
-    git clone
+    git clone https://github.com/AsmInstrutor/brutepy.git
     cd brutepy
     python brutepy
     
